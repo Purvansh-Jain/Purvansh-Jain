@@ -10,8 +10,8 @@
 - ❤️ Love Playing Computer/Mobile Games
 - 🛠️ Full Stack Engineer
 - 🌱 I’m currently learning ... Flutter And React
-- 📫 How to reach me: ...aryanshah576@gmail.com
-- 👩🏻‍🎓 Student GLS University
+- 📫 How to reach me: ...jpurvansh23@gmail.com
+- 👩🏻‍🎓 Student JAIN University
 
 <h3 align="left">Languages and Tools:</h3>
 
