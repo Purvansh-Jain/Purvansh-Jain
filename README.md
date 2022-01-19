@@ -1,17 +1,17 @@
 # Purvansh Jain 👋
 
-<h2> Hi, I'm Purvansh Jain , currently working as Software developer In Cerner Corporation , Bangalore</h2>
+<h2> Hi, I'm Purvansh Jain , currently working as Software Developer at Cerner Healthcare Solutions India Pvt Ltd , Bangalore </h2>
 </em>
 
 <br/>
 
 <br/>
 
-- ❤️ Love Playing Computer/Mobile Games
+- ❤️ Love Playing Cricket, Chess & Badminton 
 - 🛠️ Full Stack Engineer
-- 🌱 I’m currently learning ... Flutter And React
+- 🌱 I’m currently learning ... Cloud Computing and Penetration testing
 - 📫 How to reach me: ...jpurvansh23@gmail.com
-- 👩🏻‍🎓 Student JAIN University
+- 👩🏻‍🎓 B.Tech @ JAIN University
 
 <h3 align="left">Languages and Tools:</h3>
 
