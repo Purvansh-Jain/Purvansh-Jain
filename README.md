@@ -1,6 +1,6 @@
 # Purvansh Jain 👋
 
-<h2> Hi, I'm Purvansh Jain , currently working as Software Developer at Cerner Healthcare Solutions India Pvt Ltd , Bangalore </h2>
+<h2> Hi, I'm Purvansh Jain , currently pursuing my Master's in Data Science at University of Pennsylvania ( Ivy League ) </h2>
 </em>
 
 <br/>
@@ -9,8 +9,8 @@
 
 - ❤️ Love Playing Cricket, Chess & Badminton 
 - 🛠️ Full Stack Engineer
-- 🌱 I’m currently learning ... Cloud Computing and Penetration testing
-- 📫 How to reach me: ...jpurvansh23@gmail.com
+- 🌱 I’m currently learning ... ML models and new AI technologies
+- 📫 How to reach me: ...jpurvansh23@gmail.com / purvansh@seas.upenn.edu
 - 👩🏻‍🎓 B.Tech @ JAIN University
 
 <h3 align="left">Languages and Tools:</h3>
