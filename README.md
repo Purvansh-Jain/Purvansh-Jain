@@ -3,9 +3,7 @@
 ## Welcome to My GitHub!
 
 ### About Me
-Hi, I'm Purvansh Jain, a passionate engineer with a Master's degree in Data Science from the University of Pennsylvania (IVY LEAGUE). With a keen interest in Machine Learning models and AI technologies, I aim to leverage data to create impactful solutions. 
-
-Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
+Hi, I'm Purvansh Jain, a passionate engineer with a Master's degree in Data Science from the University of Pennsylvania (IVY LEAGUE). With a keen interest in Machine Learning models and AI technologies, I aim to leverage data to create impactful solutions. Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
 
 - ❤️ I love playing Cricket, Chess & Badminton.
 - 🛠️ Full Stack Engineer.
@@ -49,10 +47,15 @@ Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
-  <!-- Include more icons based on your technical skills -->
 </p>
 
+### Some Highlights
+- Spearheaded several projects leveraging advanced ML and AI techniques.
+- Published Patents and Research Papers on cybersecurity and cloud computing.
+- Developed and contributed to open-source projects.
+
 ### Projects
+Here are some projects I'm proud of:
 - **Drug Review Sentiment Analysis**: An LSTM-based NLP model to analyze drug reviews.
 - **Dynamic Cloud-Based Search Engine**: Developed "CloudQuest," an adaptive web crawler and search engine.
 - **Price Prediction of Internet Service Provider**: Applied ML algorithms for predictive analysis.
