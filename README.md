@@ -54,7 +54,7 @@ Hi, I'm Purvansh Jain, a passionate engineer with a Master's degree in Data Scie
 ### Projects
 Here are some projects I'm proud of:
 - [**Drug Review Sentiment Analysis**](https://github.com/Purvansh-Jain/DRUG-REVIEW-SENTIMENT-ANALYSIS): An LSTM-based NLP model to analyze drug reviews.
-- **Dynamic Cloud-Based Search Engine**: Developed "CloudQuest," an adaptive web crawler and search engine.[https://github.com/Purvansh-Jain/Cloud-Quest] 
-- **Price Prediction of Internet Service Provider**: Applied ML algorithms for predictive analysis.[https://github.com/Purvansh-Jain/Internet-Service-Price-Prediction]
+- [**Dynamic Cloud-Based Search Engine**](https://github.com/Purvansh-Jain/Cloud-Quest): Developed "CloudQuest," an adaptive web crawler and search engine.
+- [**Price Prediction of Internet Service Provider**](https://github.com/Purvansh-Jain/Internet-Service-Price-Prediction): Applied ML algorithms for predictive analysis.
 
 Let's connect and collaborate on interesting projects!
