@@ -3,7 +3,9 @@
 ## Welcome to My GitHub!
 
 ### About Me
-Hi, I'm Purvansh Jain, a passionate engineer with a Master's degree in Data Science from the University of Pennsylvania (IVY LEAGUE). With a keen interest in Machine Learning models and AI technologies, I aim to leverage data to create impactful solutions. Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
+Hi, I'm Purvansh Jain, a passionate engineer with a Master's degree in Data Science from the University of Pennsylvania (IVY LEAGUE). With a keen interest in Machine Learning models and AI technologies, I aim to leverage data to create impactful solutions. 
+
+Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
 
 - ❤️ I love playing Cricket, Chess & Badminton.
 - 🛠️ Full Stack Engineer.
