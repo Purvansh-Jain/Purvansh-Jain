@@ -18,9 +18,9 @@
 ### About Me
 Hi, I'm Purvansh Jain, a passionate engineer with a Master's degree in Data Science from the University of Pennsylvania (IVY LEAGUE). With a keen interest in Machine Learning models and AI technologies, I aim to leverage data to create impactful solutions. Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
 
-- ❤️ I love playing Cricket, Chess & Badminton.
 - 🛠️ Full Stack Engineer.
 - 🌱 Currently learning more about ML models and new AI technologies.
+- ❤️ I love playing Cricket, Chess & Badminton.
 
 ### What I'm Doing
 - 🔭 Working on improving ML models and exploring new AI technologies.
@@ -53,7 +53,7 @@ Hi, I'm Purvansh Jain, a passionate engineer with a Master's degree in Data Scie
 
 ### Projects
 Here are some projects I'm proud of:
-- **Drug Review Sentiment Analysis**: An LSTM-based NLP model to analyze drug reviews.[https://github.com/Purvansh-Jain/DRUG-REVIEW-SENTIMENT-ANALYSIS] 
+- [https://github.com/Purvansh-Jain/DRUG-REVIEW-SENTIMENT-ANALYSIS] (**Drug Review Sentiment Analysis**): An LSTM-based NLP model to analyze drug reviews.
 - **Dynamic Cloud-Based Search Engine**: Developed "CloudQuest," an adaptive web crawler and search engine.[https://github.com/Purvansh-Jain/Cloud-Quest] 
 - **Price Prediction of Internet Service Provider**: Applied ML algorithms for predictive analysis.[https://github.com/Purvansh-Jain/Internet-Service-Price-Prediction]
 
