@@ -20,7 +20,7 @@ Hi, I'm Purvansh Jain, a passionate engineer with a Master's degree in Data Scie
 
 Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
 
-- 🛠️ Full Stack Engineer.
+- 🛠️ Data Engineer
 - 🌱 Currently learning more about ML models and new AI technologies.
 - ❤️ I love playing Cricket, Chess & Badminton.
 
@@ -30,23 +30,26 @@ Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
 - 🌱 Learning advanced techniques in data science and software development.
 
 ### How to Reach Me
-- 📫 Email: [mail@purvansh.co.in](mailto:mail@purvansh.co.in) / [jpurvansh23@gmail.com](mailto:jpurvansh23@gmail.com)
+- 📫 Email:  [purvansh@myjobtech.com](mailto:purvansh@myjobtech.com) [mail@purvansh.co.in](mailto:mail@purvansh.co.in) / [jpurvansh23@gmail.com](mailto:jpurvansh23@gmail.com)
 
 ### Education
 - 🎓 Master of Science in Data Science, University of Pennsylvania
 - 🎓 Bachelor of Technology, JAIN University
 
 ### Technical Skills
-- **Languages**: Python, Java, C, CSS, HTML, PL/SQL, Shell Scripting
-- **Frameworks & Libraries**: React.js, Node.js, OpenCV, Apache Spark, PyTorch, Seaborn, Sklearn, Spring MVC & Boot, TensorFlow
-- **Database Connectivity & Querying**: AWS RDS, DBeaver, DataGrip, SQLite, JDBC, MySQL, MongoDB, Neo4j, PostgreSQL
-- **AI & ML Technologies**: CNN, FNN, KNN, MLE, ICA, PCA, SVMs, Decision Trees, Random Forests, K-means, NLP, Reinforcement Learning, Regression (Simple, Ridge, LASSO, Logistic)
-- **Cloud Technologies**: AWS (Polly, CLI, S3, EC2, Lambda), Google Cloud Platform, IBM Cloud, Microsoft Azure
-- **Cybersecurity Tools**: Intrusion Detection & Prevention, Malware Analysis, Penetration Testing, Risk Analysis, STS
-- **Infrastructure Solutions**: Apache HTTPD, NFS, NGINX, Samba, VMware, VirtualBox
-- **Visualization Tools**: Google Charts, Microsoft Power BI, MS Excel, Tableau
-- **IDE/OS Experience**: Eclipse, IntelliJ IDEA, PyCharm, Visual Studio, Windows, macOS, Linux (Parrot), RHEL, UNIX
-- **Other Tools & Technologies**: AJAX, CI/CD, Crucible, Docker, Git, Colab, Grafana, Jenkins, JIRA, Postman, SonarQube
+- **Methodologies**: Agile, Scrum, JIRA
+- **Languages**: Python, Java, C++, CSS, HTML, PL/SQL, Shell Scripting
+- **Big Data Tools**: Hadoop, MapReduce, Hive, Apache Spark, Pig
+- **ETL and Workflow Tools**: SSIS, Apache NiFi, Apache Kafka, Talend, Apache Airflow, Postman
+- **Cloud Platforms and Data Warehousing**: AWS (S3, EC2, RDS, Lambda, Redshift), Microsoft Azure, Snowflake, Google Cloud Platform (GCP), Big Query
+- **Containerization and CI/CD Tools**: Docker, Kubernetes, Jenkins, GitLab
+- **AI and Machine Learning Technologies**: BERT, GPT, LSTM, CNN, KNN, MLE, PCA, Reinforcement Learning (RL), SVM, Decision Trees, Random Forests, Regression (Simple, Ridge, LASSO)
+- **Frameworks & Libraries**: React.js, Matplotlib, NumPy, PyTorch, Pandas, SciPy, Scikit-learn, Seaborn, TensorFlow, Spring Boot
+- **Business Infrastructure and Visualization Tools**: Tableau, Microsoft Power BI, SSRS, Looker, NFS, NGINX, Samba, VMware
+- **Databases**: MongoDB, MySQL, PostgreSQL, SQL Server, Neo4j, JDBC, DBeaver, DataGrip
+- **Version Control Systems**: Git, GitHub, AWS CodeCommit, Apache Subversion
+- **Integrated Development Environments (IDEs)**: PyCharm, Jupyter Notebook, IntelliJ IDEA, Visual Studio
+
 
 ### Some Highlights
 - Spearheaded several projects leveraging advanced ML and AI techniques.
