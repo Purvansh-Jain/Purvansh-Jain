@@ -30,7 +30,7 @@ Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
 - 🌱 Learning advanced techniques in data science and software development.
 
 ### How to Reach Me
-- 📫 Email:  [purvansh@myjobtech.com](mailto:purvansh@myjobtech.com) [mail@purvansh.co.in](mailto:mail@purvansh.co.in) / [jpurvansh23@gmail.com](mailto:jpurvansh23@gmail.com)
+- 📫 Email:  [purvansh@myjobtech.com](mailto:purvansh@myjobtech.com) / [jpurvansh23@gmail.com](mailto:jpurvansh23@gmail.com)
 
 ### Education
 - 🎓 Master of Science in Data Science, University of Pennsylvania
