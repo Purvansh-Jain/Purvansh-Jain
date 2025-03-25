@@ -17,7 +17,7 @@
 
 ### About Me
 Hi, I'm Purvansh Jain, a passionate data engineer with 4 years of experience and a Master's degree in Data Science from the University of Pennsylvania (IVY LEAGUE). 
-With a keen interest in Machine Learning models and AI technologies, I aim to leverage data and use my 4 Patents to create impactful solutions. 
+With a keen interest in ML models and AI technologies, I aim to leverage data and use my 4 Patents to create impactful solutions. 
 
 Visit my website for more: [www.purvansh.co.in](http://www.purvansh.co.in)
 
